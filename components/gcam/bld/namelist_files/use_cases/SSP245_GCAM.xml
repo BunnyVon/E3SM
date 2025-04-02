@@ -1,0 +1,8 @@
+<?xml version="1.0"?>Add commentMore actions
+<namelist_defaults>
+ 
+<!-- gcam config and init files, relative to inputdata -->
+<gcam_config>iac/giac/gcam/gcam_6_0/configuration/configuration_ssp245_in_E3SM.xml</gcam_config>
+<base_hr_file>iac/giac/gcam/gcam_6_0/data/base_f09_20241204_ZATM_annAvgMonthly_2010-2014_hr.csv</base_hr_file>
+<base_npp_file>iac/giac/gcam/gcam_6_0/data/base_f09_20241204_ZATM_annAvgMonthly_2010-2014_npp.csv</base_npp_file>
+<base_pft_file>iac/giac/gcam/gcam_6_0/data/base_f09_20241204_ZATM_annAvgMonthly_2010-2014_pft_wt.csv</base_pft_file>
