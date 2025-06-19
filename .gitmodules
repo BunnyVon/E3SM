@@ -79,3 +79,4 @@
 [submodule "components/gcam/src"]
     path = components/gcam/src
     url = https://github.com/bunnyvon/giac.git
+	branch = shafeng/giac/add_use_case
