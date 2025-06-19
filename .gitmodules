@@ -72,7 +72,10 @@
 	path = components/ww3/src/WW3
 	url = git@github.com:E3SM-Project/WW3.git
 	branch = e3sm
-[submodule "gcam"]
-	path = components/gcam/src
-	url = git@github.com:E3SM-Project/giac
-	branch = aldivi/iac_gcam6_merge_co2
+# [submodule "gcam"]
+# 	path = components/gcam/src
+# 	url = git@github.com:E3SM-Project/giac
+# 	branch = aldivi/iac_gcam6_merge_co2
+[submodule "components/gcam/src"]
+    path = components/gcam/src
+    url = https://github.com/bunnyvon/giac.git
